@@ -24,4 +24,4 @@ Bons estudos! wink
 
 GitHub
 Todo código-fonte desenvolvido durante o curso foi versionado no GitHub, no seguinte endereço:
-https://github.com/alexsandra-oliveira/Projeto_de_Transfer_Learning_em_Python-.git
+(https://github.com/catalani22/Projeto_de_Transfer_Learning_em_Python/)
